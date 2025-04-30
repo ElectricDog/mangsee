@@ -1,15 +1,19 @@
 [
   {
-    "id": "mangadex",
-    "name": "MangaDex",
-    "type": "api",
-    "baseURL": "https://api.mangadex.org",
-    "searchPath": "/manga?title=",
-    "language": "en",
-    "isActive": false,
-    "coverPath": "/cover?manga[]=",
-    "coverTemplate": "https://uploads.mangadex.org/covers/{id}/{fileName}.256.jpg"
-  },
+  "id": "mangadex",
+  "name": "MangaDex",
+  "type": "htmlScraper",
+  "baseURL": "https://mangadex.org",
+  "searchPath": "/titles?q=",
+  "language": "en",
+  "isActive": true,
+  "searchResultSelector": ".manga-entry",
+  "searchTitleSelector": ".manga-title",
+  "searchLinkSelector": "a",
+  "searchThumbnailSelector": "img",
+  "chapterSelector": ".chapter a",
+  "readerImageSelector": ".reader-area img"
+},
   {
     "id": "toonily",
     "name": "Toonily",
