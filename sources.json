@@ -1,5 +1,15 @@
 [
   {
+    "id": "mangadex",
+    "name": "MangaDex",
+    "type": "api",
+    "baseURL": "https://api.mangadex.org",
+    "searchPath": "/manga?title=",
+    "coverPath": "/cover?manga[]=",
+    "coverTemplate": "https://uploads.mangadex.org/covers/{id}/{fileName}.256.jpg",
+    "isActive": false
+  },
+  {
     "id": "mangasee",
     "name": "MangaSee",
     "type": "htmlScraper",
@@ -13,14 +23,6 @@
     "type": "htmlScraper",
     "baseURL": "https://toonily.net",
     "searchPath": "/search/?keyword=",
-    "isActive": false
-  },
-  {
-    "id": "mangadex",
-    "name": "MangaDex",
-    "type": "api",
-    "baseURL": "https://api.mangadex.org",
-    "searchPath": "/manga?title=",
     "isActive": false
   }
 ]
