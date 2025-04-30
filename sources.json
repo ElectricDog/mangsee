@@ -1,17 +1,17 @@
 [
-{
-  "id": "toonily",
-  "name": "Toonily",
-  "type": "htmlScraper",
-  "baseURL": "https://toonily.com",
-  "searchPath": "/?s=",
-  "language": "en",
-  "isActive": true,
-  "searchResultSelector": ".listupd .bs",
-  "searchTitleSelector": ".tt",
-  "searchLinkSelector": "a",
-  "searchThumbnailSelector": "img",
-  "chapterSelector": ".eph-num a",
-  "readerImageSelector": ".reading-content img"
-}
+  {
+    "id": "mangabat",
+    "name": "MangaBat",
+    "type": "htmlScraper",
+    "baseURL": "https://www.mangabats.com",
+    "searchPath": "/search?keyword=",
+    "language": "en",
+    "isActive": true,
+    "searchResultSelector": ".panel-search-story .story_item",
+    "searchTitleSelector": ".story_name a",
+    "searchLinkSelector": ".story_name a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".chapter-list a",
+    "readerImageSelector": ".container-chapter-reader img"
+  }
 ]
