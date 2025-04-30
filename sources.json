@@ -2,7 +2,7 @@
   {
     "id": "akuma_moe_en",
     "name": "Akuma",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://akuma.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -18,7 +18,7 @@
   {
     "id": "asmhentai_com_en",
     "name": "AsmHentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://asmhentai.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -34,7 +34,7 @@
   {
     "id": "batotwo_com_en",
     "name": "Bato.to",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://batotwo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -50,7 +50,7 @@
   {
     "id": "comicfury_com_en",
     "name": "Comic Fury",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comicfury.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -66,7 +66,7 @@
   {
     "id": "comick_io_en",
     "name": "Comick",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comick.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -82,7 +82,7 @@
   {
     "id": "pocketcomics_com_en",
     "name": "POCKET COMICS",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.pocketcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -98,7 +98,7 @@
   {
     "id": "wp_comicskingdom_com_en",
     "name": "Comics Kingdom",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://wp.comicskingdom.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -114,7 +114,7 @@
   {
     "id": "comikey_com_en",
     "name": "Comikey",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comikey.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -130,7 +130,7 @@
   {
     "id": "commitstrip_com_en",
     "name": "Commit Strip",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.commitstrip.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -146,7 +146,7 @@
   {
     "id": "cubari_moe_en",
     "name": "Cubari",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://cubari.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -162,7 +162,7 @@
   {
     "id": "dragonball-multiverse_com_en",
     "name": "Dragon Ball Multiverse",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.dragonball-multiverse.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -178,7 +178,7 @@
   {
     "id": "e-hentai_org_en",
     "name": "E-Hentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://e-hentai.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -194,7 +194,7 @@
   {
     "id": "eternalmangas_com_en",
     "name": "EternalMangas",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://eternalmangas.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -210,7 +210,7 @@
   {
     "id": "galaxyaction_net_en",
     "name": "Galaxy Webtoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://galaxyaction.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -226,7 +226,7 @@
   {
     "id": "globalcomix_com_en",
     "name": "GlobalComix",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://globalcomix.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -242,7 +242,7 @@
   {
     "id": "hennojin_com_en",
     "name": "Hennojin",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hennojin.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -258,7 +258,7 @@
   {
     "id": "3hentai_net_en",
     "name": "3Hentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://3hentai.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -274,7 +274,7 @@
   {
     "id": "hentaiera_com_en",
     "name": "HentaiEra",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaiera.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -290,7 +290,7 @@
   {
     "id": "hentaifox_com_en",
     "name": "HentaiFox",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaifox.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -306,7 +306,7 @@
   {
     "id": "hentaihand_com_en",
     "name": "HentaiHand",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaihand.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -322,7 +322,7 @@
   {
     "id": "hitomi_la_en",
     "name": "Hitomi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hitomi.la",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -338,7 +338,7 @@
   {
     "id": "alt_hololive_tv_en",
     "name": "HOLONOMETRIA",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://alt.hololive.tv",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -354,7 +354,7 @@
   {
     "id": "imhentai_xxx_en",
     "name": "IMHentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://imhentai.xxx",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -370,7 +370,7 @@
   {
     "id": "izneo_com_en",
     "name": "izneo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.izneo.com/en/webtoon",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -386,7 +386,7 @@
   {
     "id": "eng_kanjiku_net_en",
     "name": "Kanjiku",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://eng.kanjiku.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -402,7 +402,7 @@
   {
     "id": "schale_network_en",
     "name": "SchaleNetwork",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://schale.network",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -418,7 +418,7 @@
   {
     "id": "universe_leagueoflegends_com_en",
     "name": "League of Legends",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://universe.leagueoflegends.com/en_us/comic/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -434,7 +434,7 @@
   {
     "id": "luscious_net_en",
     "name": "Luscious",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.luscious.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -450,7 +450,7 @@
   {
     "id": "mahoushoujobu_com_en",
     "name": "Magical Translators",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mahoushoujobu.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -466,7 +466,7 @@
   {
     "id": "manga18_me_en",
     "name": "Manga18.me",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga18.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -482,7 +482,7 @@
   {
     "id": "mangadex_org_en",
     "name": "MangaDex",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangadex.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -498,7 +498,7 @@
   {
     "id": "mangafire_to_en",
     "name": "MangaFire",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangafire.to",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -514,7 +514,7 @@
   {
     "id": "mangaforfree_net_en",
     "name": "MangaForFree.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaforfree.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -530,7 +530,7 @@
   {
     "id": "mangago_fit_en",
     "name": "Manga Hosted",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangago.fit/manga",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -546,7 +546,7 @@
   {
     "id": "mangago_fit_en",
     "name": "Manga Hosted v2",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangago.fit/manga-v2",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -562,7 +562,7 @@
   {
     "id": "mangago_fit_en",
     "name": "Manga Hosted Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangago.fit/comic",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -578,7 +578,7 @@
   {
     "id": "mangapark_net_en",
     "name": "MangaPark",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangapark.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -594,7 +594,7 @@
   {
     "id": "mangaplus_shueisha_co_jp_en",
     "name": "MANGA Plus by SHUEISHA",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaplus.shueisha.co.jp",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -610,7 +610,7 @@
   {
     "id": "medibang_com_en",
     "name": "MANGA Plus Creators by SHUEISHA",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://medibang.com/mpc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -642,7 +642,7 @@
   {
     "id": "mangatoon_mobi_en",
     "name": "MangaToon (Limited)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatoon.mobi",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -658,7 +658,7 @@
   {
     "id": "global_manga-up_com_en",
     "name": "Manga UP!",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://global.manga-up.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -674,7 +674,7 @@
   {
     "id": "manhwa18_cc_en",
     "name": "Manhwa18.cc",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwa18.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -690,7 +690,7 @@
   {
     "id": "manhwa18_net_en",
     "name": "Manhwa18.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwa18.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -706,7 +706,7 @@
   {
     "id": "manhwaclub_net_en",
     "name": "ManhwaClub.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwaclub.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -722,7 +722,7 @@
   {
     "id": "myreadingmanga_info_en",
     "name": "MyReadingManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://myreadingmanga.info",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -738,7 +738,7 @@
   {
     "id": "namicomi_com_en",
     "name": "NamiComi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://namicomi.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -754,7 +754,7 @@
   {
     "id": "nhentai_net_en",
     "name": "NHentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nhentai.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -770,7 +770,7 @@
   {
     "id": "nhentai_com_en",
     "name": "nHentai.com (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nhentai.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -786,7 +786,7 @@
   {
     "id": "en_ninemanga_com_en",
     "name": "NineMangaEn",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://en.ninemanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -802,7 +802,7 @@
   {
     "id": "novelcool_com_en",
     "name": "NovelCool",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.novelcool.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -818,7 +818,7 @@
   {
     "id": "otakusan_me_en",
     "name": "Otaku Sanctuary",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://otakusan.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -834,7 +834,7 @@
   {
     "id": "panda_chaika_moe_en",
     "name": "PandaChaika",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://panda.chaika.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -850,7 +850,7 @@
   {
     "id": "pixiv_net_en",
     "name": "Pixiv",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.pixiv.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -866,7 +866,7 @@
   {
     "id": "pornpics_com_en",
     "name": "PornPics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.pornpics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -882,7 +882,7 @@
   {
     "id": "pururin_me_en",
     "name": "Pururin",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://pururin.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -898,7 +898,7 @@
   {
     "id": "ravens-scans_com_en",
     "name": "Ravens Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ravens-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -914,7 +914,7 @@
   {
     "id": "sandraandwoo_com_en",
     "name": "Sandra and Woo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.sandraandwoo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -930,7 +930,7 @@
   {
     "id": "seraphic-deviltry_com_en",
     "name": "SeraphicDeviltry",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://seraphic-deviltry.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -946,7 +946,7 @@
   {
     "id": "simply-hentai_com_en",
     "name": "Simply Hentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.simply-hentai.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -962,7 +962,7 @@
   {
     "id": "snowmtl_ru_en",
     "name": "Snow Machine Translations",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://snowmtl.ru",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -978,7 +978,7 @@
   {
     "id": "solarmtl_com_en",
     "name": "Solar Machine Translations",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://solarmtl.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -994,7 +994,7 @@
   {
     "id": "tappytoon_com_en",
     "name": "Tappytoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.tappytoon.com/en",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1010,7 +1010,7 @@
   {
     "id": "thelibraryofohara_com_en",
     "name": "The Library of Ohara",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://thelibraryofohara.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1026,7 +1026,7 @@
   {
     "id": "en-thunderscans_com_en",
     "name": "Thunder Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://en-thunderscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1042,7 +1042,7 @@
   {
     "id": "global_toomics_com_en",
     "name": "Toomics (Only free chapters)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://global.toomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1058,7 +1058,7 @@
   {
     "id": "vinnieveritas_com_en",
     "name": "Vinnie Veritas - CCC",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vinnieveritas.com/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1074,7 +1074,7 @@
   {
     "id": "webtoons_com_en",
     "name": "Webtoons.com",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.webtoons.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1090,7 +1090,7 @@
   {
     "id": "translate_webtoons_com_en",
     "name": "Webtoons.com Translations",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://translate.webtoons.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1106,7 +1106,7 @@
   {
     "id": "xkcd_com_en",
     "name": "xkcd",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://xkcd.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1122,7 +1122,7 @@
   {
     "id": "en_xchina_co_en",
     "name": "\u5c0f\u9ec4\u4e66",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://en.xchina.co",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1138,7 +1138,7 @@
   {
     "id": "adultwebtoon_com_en",
     "name": "Adult Webtoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://adultwebtoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1154,7 +1154,7 @@
   {
     "id": "aeinscans_com_en",
     "name": "Aein Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://aeinscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1170,7 +1170,7 @@
   {
     "id": "alandal_com_en",
     "name": "Alandal",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://alandal.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1186,7 +1186,7 @@
   {
     "id": "allmanga_to_en",
     "name": "AllManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://allmanga.to",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1202,7 +1202,7 @@
   {
     "id": "allporncomic_com_en",
     "name": "AllPornComic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://allporncomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1218,7 +1218,7 @@
   {
     "id": "altayscans_com_en",
     "name": "Altay Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://altayscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1234,7 +1234,7 @@
   {
     "id": "motokare_xyz_en",
     "name": "Anata no Motokare",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://motokare.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1250,7 +1250,7 @@
   {
     "id": "agrcomics_com_en",
     "name": "Animated Glitched Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://agrcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1266,7 +1266,7 @@
   {
     "id": "anisascans_in_en",
     "name": "Anisa Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://anisascans.in",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1282,7 +1282,7 @@
   {
     "id": "apcomics_org_en",
     "name": "AP Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://apcomics.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1298,7 +1298,7 @@
   {
     "id": "aquareader_net_en",
     "name": "Aqua Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://aquareader.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1314,7 +1314,7 @@
   {
     "id": "arcanescans_com_en",
     "name": "Arcanescans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://arcanescans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1330,7 +1330,7 @@
   {
     "id": "arc-relight_com_en",
     "name": "Arc-Relight",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://arc-relight.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1346,7 +1346,7 @@
   {
     "id": "artlapsa_com_en",
     "name": "Art Lapsa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://artlapsa.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1362,7 +1362,7 @@
   {
     "id": "arvencomics_com_en",
     "name": "Arven Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://arvencomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1378,7 +1378,7 @@
   {
     "id": "vortexscans_org_en",
     "name": "Vortex Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vortexscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1394,7 +1394,7 @@
   {
     "id": "aryascans_com_en",
     "name": "Arya Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://aryascans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1410,7 +1410,7 @@
   {
     "id": "asmotoon_com_en",
     "name": "Asmodeus Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://asmotoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1426,7 +1426,7 @@
   {
     "id": "assortedscans_com_en",
     "name": "Assorted Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://assortedscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1442,7 +1442,7 @@
   {
     "id": "astrascans_org_en",
     "name": "Astra Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://astrascans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1474,7 +1474,7 @@
   {
     "id": "atsu_moe_en",
     "name": "Atsumaru",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://atsu.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1490,7 +1490,7 @@
   {
     "id": "comicaurora_com_en",
     "name": "Aurora",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comicaurora.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1506,7 +1506,7 @@
   {
     "id": "aurorascans_com_en",
     "name": "Aurora Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://aurorascans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1522,7 +1522,7 @@
   {
     "id": "bakkin_moe_en",
     "name": "Bakkin",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://bakkin.moe/reader/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1538,7 +1538,7 @@
   {
     "id": "127_0_0_1_en",
     "name": "Bakkin Self-hosted",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "http://127.0.0.1/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1554,7 +1554,7 @@
   {
     "id": "bananamanga_net_en",
     "name": "Banana Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://bananamanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1570,7 +1570,7 @@
   {
     "id": "batcave_biz_en",
     "name": "BatCave",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://batcave.biz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1586,7 +1586,7 @@
   {
     "id": "deatte5_com_en",
     "name": "Battle In 5 Seconds After Meeting",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.deatte5.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1602,7 +1602,7 @@
   {
     "id": "beehentai_com_en",
     "name": "BeeHentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://beehentai.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1618,7 +1618,7 @@
   {
     "id": "boxmanhwa_com_en",
     "name": "BoxManhwa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://boxmanhwa.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1634,7 +1634,7 @@
   {
     "id": "incase_buttsmithy_com_en",
     "name": "Buttsmithy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://incase.buttsmithy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1650,7 +1650,7 @@
   {
     "id": "casacomic_com_en",
     "name": "Casa Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://casacomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1666,7 +1666,7 @@
   {
     "id": "manga_clone-army_org_en",
     "name": "Clone Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga.clone-army.org/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1682,7 +1682,7 @@
   {
     "id": "clowncorps_net_en",
     "name": "Clown Corps",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://clowncorps.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1698,7 +1698,7 @@
   {
     "id": "cocomic_co_en",
     "name": "Cocomic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://cocomic.co",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1714,7 +1714,7 @@
   {
     "id": "coffeemanga_io_en",
     "name": "Coffee Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://coffeemanga.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1730,7 +1730,7 @@
   {
     "id": "collectedcurios_com_en",
     "name": "Collected Curios",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.collectedcurios.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1746,7 +1746,7 @@
   {
     "id": "comichubfree_com_en",
     "name": "ComicHubFree",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comichubfree.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1762,7 +1762,7 @@
   {
     "id": "manhuagold_top_en",
     "name": "Manhuagold",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuagold.top",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1778,7 +1778,7 @@
   {
     "id": "constellarcomic_com_en",
     "name": "Constellar Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://constellarcomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1794,7 +1794,7 @@
   {
     "id": "culturedworks_com_en",
     "name": "CulturedWorks",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://culturedworks.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1810,7 +1810,7 @@
   {
     "id": "cutiecomics_com_en",
     "name": "Cutie Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://cutiecomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1826,7 +1826,7 @@
   {
     "id": "cypheroscans_xyz_en",
     "name": "Cypher Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://cypheroscans.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1842,7 +1842,7 @@
   {
     "id": "danke_moe_en",
     "name": "Danke f\u00fcrs Lesen",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://danke.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1858,7 +1858,7 @@
   {
     "id": "darklegacycomics_com_en",
     "name": "Dark Legacy Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.darklegacycomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1874,7 +1874,7 @@
   {
     "id": "darkscans_net_en",
     "name": "Dark Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://darkscans.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1890,7 +1890,7 @@
   {
     "id": "dresdencodak_com_en",
     "name": "Dark Science",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dresdencodak.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1906,7 +1906,7 @@
   {
     "id": "darthsanddroids_net_en",
     "name": "Darths & Droids",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.darthsanddroids.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1922,7 +1922,7 @@
   {
     "id": "daycomics_me_en",
     "name": "DAYcomics.me",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://daycomics.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1938,7 +1938,7 @@
   {
     "id": "reader_deathtollscans_net_en",
     "name": "Death Toll Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reader.deathtollscans.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1954,7 +1954,7 @@
   {
     "id": "reader_decadencescans_com_en",
     "name": "Decadence Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reader.decadencescans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1970,7 +1970,7 @@
   {
     "id": "digitalcomicmuseum_com_en",
     "name": "Digital Comic Museum",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://digitalcomicmuseum.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -1986,7 +1986,7 @@
   {
     "id": "disasterscans_com_en",
     "name": "Disaster Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://disasterscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2002,7 +2002,7 @@
   {
     "id": "didascans_blogspot_com_en",
     "name": "DMC Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://didascans.blogspot.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2018,7 +2018,7 @@
   {
     "id": "doujin_io_en",
     "name": "Doujin.io - J18",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://doujin.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2034,7 +2034,7 @@
   {
     "id": "doujins_com_en",
     "name": "Doujins",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://doujins.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2050,7 +2050,7 @@
   {
     "id": "dragontea_ink_en",
     "name": "DragonTea",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dragontea.ink",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2066,7 +2066,7 @@
   {
     "id": "drakecomic_org_en",
     "name": "Drake Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://drakecomic.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2082,7 +2082,7 @@
   {
     "id": "dxdscans_com_en",
     "name": "Dxd Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dxdscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2098,7 +2098,7 @@
   {
     "id": "dynasty-scans_com_en",
     "name": "Dynasty Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dynasty-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2114,7 +2114,7 @@
   {
     "id": "dynasty-scans_com_en",
     "name": "Dynasty-Anthologies (Deprecated)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dynasty-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2130,7 +2130,7 @@
   {
     "id": "dynasty-scans_com_en",
     "name": "Dynasty-Chapters (Deprecated)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dynasty-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2146,7 +2146,7 @@
   {
     "id": "dynasty-scans_com_en",
     "name": "Dynasty-Doujins (Deprecated)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dynasty-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2162,7 +2162,7 @@
   {
     "id": "dynasty-scans_com_en",
     "name": "Dynasty-Issues (Deprecated)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dynasty-scans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2178,7 +2178,7 @@
   {
     "id": "eggporncomics_com_en",
     "name": "Eggporncomics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://eggporncomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2194,7 +2194,7 @@
   {
     "id": "egscomics_com_en",
     "name": "El Goonish Shive",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.egscomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2210,7 +2210,7 @@
   {
     "id": "18porncomic_com_en",
     "name": "18 Porn Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://18porncomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2226,7 +2226,7 @@
   {
     "id": "comics_8muses_com_en",
     "name": "8Muses",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://comics.8muses.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2242,7 +2242,7 @@
   {
     "id": "elan_school_en",
     "name": "Elan School",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://elan.school",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2258,7 +2258,7 @@
   {
     "id": "elarctoons_biz_en",
     "name": "Elarc Toon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://elarctoons.biz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2274,7 +2274,7 @@
   {
     "id": "enryucomics_com_en",
     "name": "EnryuManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://enryucomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2290,7 +2290,7 @@
   {
     "id": "erofus_com_en",
     "name": "Erofus",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.erofus.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2306,7 +2306,7 @@
   {
     "id": "sobicscans_xyz_en",
     "name": "Eros Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sobicscans.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2322,7 +2322,7 @@
   {
     "id": "evilflowers_com_en",
     "name": "Evil Flowers",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://evilflowers.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2338,7 +2338,7 @@
   {
     "id": "existentialcomics_com_en",
     "name": "Existential Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://existentialcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2354,7 +2354,7 @@
   {
     "id": "explosm_net_en",
     "name": "Cyanide & Happiness",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://explosm.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2370,7 +2370,7 @@
   {
     "id": "ezmanga_org_en",
     "name": "EZmanga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ezmanga.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2386,7 +2386,7 @@
   {
     "id": "factmanga_com_en",
     "name": "FactManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://factmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2402,7 +2402,7 @@
   {
     "id": "firescans_xyz_en",
     "name": "Firescans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://firescans.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2418,7 +2418,7 @@
   {
     "id": "1stkissmanga_org_en",
     "name": "1st-Kiss Manga.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://1stkissmanga.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2434,7 +2434,7 @@
   {
     "id": "1stkissmanhua_net_en",
     "name": "First Kiss Manhua",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://1stkissmanhua.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2450,7 +2450,7 @@
   {
     "id": "flamecomics_xyz_en",
     "name": "Flame Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://flamecomics.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2466,7 +2466,7 @@
   {
     "id": "sweetmanhwa_online_en",
     "name": "Flone Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sweetmanhwa.online",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2482,7 +2482,7 @@
   {
     "id": "freecomiconline_me_en",
     "name": "Free Comic Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://freecomiconline.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2498,7 +2498,7 @@
   {
     "id": "freemanga_me_en",
     "name": "Free Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://freemanga.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2514,7 +2514,7 @@
   {
     "id": "freemangatop_com_en",
     "name": "FreeMangaTop",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://freemangatop.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2530,7 +2530,7 @@
   {
     "id": "manhwas_com_en",
     "name": "Free Manhwa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwas.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2546,7 +2546,7 @@
   {
     "id": "gdscans_com_en",
     "name": "GalaxyDegenScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://gdscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2562,7 +2562,7 @@
   {
     "id": "gedecomix_com_en",
     "name": "GEDE Comix",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://gedecomix.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2594,7 +2594,7 @@
   {
     "id": "gourmetsupremacy_com_en",
     "name": "Gourmet Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://gourmetsupremacy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2610,7 +2610,7 @@
   {
     "id": "grrlpowercomic_com_en",
     "name": "Grrl Power Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.grrlpowercomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2626,7 +2626,7 @@
   {
     "id": "gunnerkrigg_com_en",
     "name": "Gunnerkrigg Court",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.gunnerkrigg.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2642,7 +2642,7 @@
   {
     "id": "guya_cubari_moe_en",
     "name": "Guya",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://guya.cubari.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2658,7 +2658,7 @@
   {
     "id": "blastwave-comic_com_en",
     "name": "Gone with the Blastwave",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.blastwave-comic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2674,7 +2674,7 @@
   {
     "id": "hachi_moe_en",
     "name": "Hachi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hachi.moe",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2690,7 +2690,7 @@
   {
     "id": "hachirumi_com_en",
     "name": "Hachirumi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hachirumi.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2706,7 +2706,7 @@
   {
     "id": "hanumanscan_com_en",
     "name": "Hanuman Scan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hanumanscan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2722,7 +2722,7 @@
   {
     "id": "harimanga_me_en",
     "name": "Harimanga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://harimanga.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2738,7 +2738,7 @@
   {
     "id": "hentai20_io_en",
     "name": "Hentai20",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentai20.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2754,7 +2754,7 @@
   {
     "id": "hentai2read_com_en",
     "name": "Hentai2Read",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentai2read.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2770,7 +2770,7 @@
   {
     "id": "hentai3z_cc_en",
     "name": "Hentai3z.CC",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentai3z.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2786,7 +2786,7 @@
   {
     "id": "hentai4free_net_en",
     "name": "Hentai4Free",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentai4free.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2802,7 +2802,7 @@
   {
     "id": "dexhentai_com_en",
     "name": "HentaiDex",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dexhentai.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2818,7 +2818,7 @@
   {
     "id": "dexyscan_com_en",
     "name": "Hentaidexy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://dexyscan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2834,7 +2834,7 @@
   {
     "id": "hentaihere_com_en",
     "name": "HentaiHere",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaihere.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2850,7 +2850,7 @@
   {
     "id": "hentaimanga_me_en",
     "name": "Hentai Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaimanga.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2866,7 +2866,7 @@
   {
     "id": "hentainexus_com_en",
     "name": "HentaiNexus",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentainexus.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2882,7 +2882,7 @@
   {
     "id": "hentairead_com_en",
     "name": "HentaiRead",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentairead.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2898,7 +2898,7 @@
   {
     "id": "hentaiwebtoon_com_en",
     "name": "HentaiWebtoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaiwebtoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2914,7 +2914,7 @@
   {
     "id": "hentaixcomic_com_en",
     "name": "HentaiXComic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaixcomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2930,7 +2930,7 @@
   {
     "id": "hentaixdickgirl_com_en",
     "name": "HentaiXDickgirl",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaixdickgirl.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2946,7 +2946,7 @@
   {
     "id": "hentaixyuri_com_en",
     "name": "HentaiXYuri",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaixyuri.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2962,7 +2962,7 @@
   {
     "id": "hipertoon_com_en",
     "name": "Hiperdex",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hipertoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2978,7 +2978,7 @@
   {
     "id": "hiveworkscomics_com_en",
     "name": "Hiveworks Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hiveworkscomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -2994,7 +2994,7 @@
   {
     "id": "doujindistrict_com_en",
     "name": "HM2D",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://doujindistrict.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3010,7 +3010,7 @@
   {
     "id": "w34_holymanga_net_en",
     "name": "HolyManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://w34.holymanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3026,7 +3026,7 @@
   {
     "id": "manga_honkaiimpact3_com_en",
     "name": "Honkai Impact 3rd",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga.honkaiimpact3.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3042,7 +3042,7 @@
   {
     "id": "hotcomics_me_en",
     "name": "HotComics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hotcomics.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3058,7 +3058,7 @@
   {
     "id": "manhuaga_com_en",
     "name": "Ignis Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3074,7 +3074,7 @@
   {
     "id": "hivecomic_com_en",
     "name": "Hive Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hivecomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3090,7 +3090,7 @@
   {
     "id": "infinityscans_org_en",
     "name": "InfinityScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://infinityscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3106,7 +3106,7 @@
   {
     "id": "irisscans_xyz_en",
     "name": "Iris Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://irisscans.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3122,7 +3122,7 @@
   {
     "id": "irovedout_com_en",
     "name": "I Roved Out",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.irovedout.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3138,7 +3138,7 @@
   {
     "id": "isekaiscanmanga_com_en",
     "name": "IsekaiScanManga (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://isekaiscanmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3154,7 +3154,7 @@
   {
     "id": "isekaiscan_top_en",
     "name": "IsekaiScan.top (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://isekaiscan.top",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3170,7 +3170,7 @@
   {
     "id": "s2manga_io_en",
     "name": "S2Manga.io",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://s2manga.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3186,7 +3186,7 @@
   {
     "id": "kaiscans_org_en",
     "name": "Kai Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kaiscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3202,7 +3202,7 @@
   {
     "id": "kaliscan_com_en",
     "name": "KaliScan.com",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kaliscan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3218,7 +3218,7 @@
   {
     "id": "kaliscan_io_en",
     "name": "KaliScan.io",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kaliscan.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3234,7 +3234,7 @@
   {
     "id": "kaliscan_me_en",
     "name": "KaliScan.me",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kaliscan.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3250,7 +3250,7 @@
   {
     "id": "kappabeast_com_en",
     "name": "Kappa Beast",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kappabeast.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3266,7 +3266,7 @@
   {
     "id": "twokinds_keenspot_com_en",
     "name": "Keenspot TwoKinds",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://twokinds.keenspot.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3282,7 +3282,7 @@
   {
     "id": "kenscans_com_en",
     "name": "Ken Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kenscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3298,7 +3298,7 @@
   {
     "id": "kewnscans_org_en",
     "name": "Kewn Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kewnscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3314,7 +3314,7 @@
   {
     "id": "killsixbilliondemons_com_en",
     "name": "KillSixBillionDemons",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://killsixbilliondemons.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3330,7 +3330,7 @@
   {
     "id": "kingofscans_com_en",
     "name": "King of Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kingofscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3346,7 +3346,7 @@
   {
     "id": "kingofshojo_com_en",
     "name": "King of Shojo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kingofshojo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3362,7 +3362,7 @@
   {
     "id": "kissmanga_in_en",
     "name": "Kissmanga.in",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kissmanga.in",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3378,7 +3378,7 @@
   {
     "id": "ksgroupscans_com_en",
     "name": "KSGroupScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ksgroupscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3394,7 +3394,7 @@
   {
     "id": "kunmanga_com_en",
     "name": "Kun Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://kunmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3410,7 +3410,7 @@
   {
     "id": "latisbooks_com_en",
     "name": "Latis Books",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.latisbooks.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3426,7 +3426,7 @@
   {
     "id": "lemonfontcomics_com_en",
     "name": "LemonFont",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://lemonfontcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3442,7 +3442,7 @@
   {
     "id": "lhtranslation_net_en",
     "name": "LHTranslation",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://lhtranslation.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3458,7 +3458,7 @@
   {
     "id": "likemanga_ink_en",
     "name": "LikeManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://likemanga.ink",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3474,7 +3474,7 @@
   {
     "id": "likemanga_in_en",
     "name": "LikeMangaIn",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://likemanga.in",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3490,7 +3490,7 @@
   {
     "id": "lilymanga_net_en",
     "name": "Lily Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://lilymanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3506,7 +3506,7 @@
   {
     "id": "loadingartist_com_en",
     "name": "Loading Artist",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://loadingartist.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3522,7 +3522,7 @@
   {
     "id": "luacomic_org_en",
     "name": "Lua Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://luacomic.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3538,7 +3538,7 @@
   {
     "id": "lunarscan_org_en",
     "name": "Lunar Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://lunarscan.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3554,7 +3554,7 @@
   {
     "id": "madaradex_org_en",
     "name": "MadaraDex",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://madaradex.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3570,7 +3570,7 @@
   {
     "id": "madarascans_com_en",
     "name": "Madara Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://madarascans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3586,7 +3586,7 @@
   {
     "id": "manga_madokami_al_en",
     "name": "Madokami",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga.madokami.al",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3602,7 +3602,7 @@
   {
     "id": "magustoon_com_en",
     "name": "Magus Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://magustoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3618,7 +3618,7 @@
   {
     "id": "manga18_club_en",
     "name": "Manga18.Club",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga18.club",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3634,7 +3634,7 @@
   {
     "id": "manga18free_com_en",
     "name": "Manga18Free",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga18free.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3650,7 +3650,7 @@
   {
     "id": "manga18fx_com_en",
     "name": "Manga18fx",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga18fx.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3666,7 +3666,7 @@
   {
     "id": "manga18x_net_en",
     "name": "Manga 18x",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga18x.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3682,7 +3682,7 @@
   {
     "id": "manga1s_com_en",
     "name": "Manga1s",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga1s.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3698,7 +3698,7 @@
   {
     "id": "manga347_com_en",
     "name": "Manga347",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga347.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3714,7 +3714,7 @@
   {
     "id": "manga3s_com_en",
     "name": "Manga3S",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga3s.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3730,7 +3730,7 @@
   {
     "id": "mangabats_com_en",
     "name": "Mangabat",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangabats.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3746,7 +3746,7 @@
   {
     "id": "mangabin_com_en",
     "name": "MangaBin",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangabin.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3762,7 +3762,7 @@
   {
     "id": "manhwabtt_cc_en",
     "name": "MangaBTT",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwabtt.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3778,7 +3778,7 @@
   {
     "id": "mangabuddy_com_en",
     "name": "MangaBuddy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangabuddy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3794,7 +3794,7 @@
   {
     "id": "toonclash_com_en",
     "name": "MangaClash",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://toonclash.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3810,7 +3810,7 @@
   {
     "id": "mangacute_com_en",
     "name": "MangaCute",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangacute.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3826,7 +3826,7 @@
   {
     "id": "demonicscans_org_en",
     "name": "Manga Demon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://demonicscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3842,7 +3842,7 @@
   {
     "id": "mangadistrict_com_en",
     "name": "Manga District",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangadistrict.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3858,7 +3858,7 @@
   {
     "id": "mangafab_com_en",
     "name": "MangaFab",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangafab.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3874,7 +3874,7 @@
   {
     "id": "manga1st_online_en",
     "name": "Manga1st.online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga1st.online",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3890,7 +3890,7 @@
   {
     "id": "mangaforest_me_en",
     "name": "MangaForest",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaforest.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3906,7 +3906,7 @@
   {
     "id": "mangaforfree_com_en",
     "name": "Mangaforfree.com",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaforfree.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3922,7 +3922,7 @@
   {
     "id": "fanfox_net_en",
     "name": "MangaFox",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://fanfox.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3938,7 +3938,7 @@
   {
     "id": "mangafoxfull_com_en",
     "name": "MangaFoxFull",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangafoxfull.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3954,7 +3954,7 @@
   {
     "id": "mangafox_fun_en",
     "name": "MangaFox.fun",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangafox.fun",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3970,7 +3970,7 @@
   {
     "id": "ww1_mangafreak_me_en",
     "name": "Mangafreak",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww1.mangafreak.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -3986,7 +3986,7 @@
   {
     "id": "mangafreak_online_en",
     "name": "MangaFreak.online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangafreak.online",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4002,7 +4002,7 @@
   {
     "id": "mangagg_com_en",
     "name": "MangaGG",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangagg.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4018,7 +4018,7 @@
   {
     "id": "mangago_me_en",
     "name": "Mangago",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangago.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4034,7 +4034,7 @@
   {
     "id": "mangagojo_com_en",
     "name": "MangaGojo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangagojo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4050,7 +4050,7 @@
   {
     "id": "mangahasu_me_en",
     "name": "Mangahasu",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangahasu.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4066,7 +4066,7 @@
   {
     "id": "manga-hen_com_en",
     "name": "MangaHen",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga-hen.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4082,7 +4082,7 @@
   {
     "id": "mangahentai_me_en",
     "name": "Manga Hentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangahentai.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4098,7 +4098,7 @@
   {
     "id": "mangahere_cc_en",
     "name": "Mangahere",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangahere.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4114,7 +4114,7 @@
   {
     "id": "mangahere_onl_en",
     "name": "MangaHere.onl",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangahere.onl",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4130,7 +4130,7 @@
   {
     "id": "mangahub_io_en",
     "name": "MangaHub",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangahub.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4194,7 +4194,7 @@
   {
     "id": "mangakiss_org_en",
     "name": "Manga Kiss",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangakiss.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4210,7 +4210,7 @@
   {
     "id": "mangakomi_io_en",
     "name": "MangaKomi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangakomi.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4226,7 +4226,7 @@
   {
     "id": "mangaleveling_com_en",
     "name": "Manga Leveling",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaleveling.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4242,7 +4242,7 @@
   {
     "id": "mangamaniacs_org_en",
     "name": "MangaManiacs",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangamaniacs.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4258,7 +4258,7 @@
   {
     "id": "mangamo_com_en",
     "name": "Mangamo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangamo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4274,7 +4274,7 @@
   {
     "id": "mangamonk_com_en",
     "name": "MangaMonk",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangamonk.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4290,7 +4290,7 @@
   {
     "id": "manganel_me_en",
     "name": "MangaNel",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manganel.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4306,7 +4306,7 @@
   {
     "id": "natomanga_com_en",
     "name": "Manganato",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.natomanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4322,7 +4322,7 @@
   {
     "id": "manganow_to_en",
     "name": "MangaNow",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manganow.to",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4338,7 +4338,7 @@
   {
     "id": "mangaonline_fun_en",
     "name": "MangaOnline.fun",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaonline.fun",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4354,7 +4354,7 @@
   {
     "id": "mangaonlineteam_com_en",
     "name": "Manga Online Team",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaonlineteam.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4370,7 +4370,7 @@
   {
     "id": "mangaowl_io_en",
     "name": "MangaOwl.io (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaowl.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4386,7 +4386,7 @@
   {
     "id": "mangapanda_onl_en",
     "name": "MangaPanda.onl",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangapanda.onl",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4402,7 +4402,7 @@
   {
     "id": "mangapill_com_en",
     "name": "MangaPill",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangapill.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4418,7 +4418,7 @@
   {
     "id": "mangaplanet_com_en",
     "name": "Manga Planet",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaplanet.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4434,7 +4434,7 @@
   {
     "id": "mangaplex_com_en",
     "name": "MangaPlex",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaplex.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4450,7 +4450,7 @@
   {
     "id": "mangapuma_com_en",
     "name": "MangaPuma",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangapuma.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4466,7 +4466,7 @@
   {
     "id": "mgeko_cc_en",
     "name": "MangaGeko",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mgeko.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4482,7 +4482,7 @@
   {
     "id": "mangaread_co_en",
     "name": "Manga Read",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaread.co",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4530,7 +4530,7 @@
   {
     "id": "mangaread_org_en",
     "name": "MangaRead.org",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangaread.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4546,7 +4546,7 @@
   {
     "id": "mangarockteam_com_en",
     "name": "Manga Rock Team",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangarockteam.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4562,7 +4562,7 @@
   {
     "id": "mangasaga_com_en",
     "name": "MangaSaga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangasaga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4578,7 +4578,7 @@
   {
     "id": "sailmg_com_en",
     "name": "Mangasail",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.sailmg.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4594,7 +4594,7 @@
   {
     "id": "mangasect_net_en",
     "name": "Manga Sect",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangasect.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4610,7 +4610,7 @@
   {
     "id": "mangaspin_com_en",
     "name": "MangaSpin",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaspin.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4626,7 +4626,7 @@
   {
     "id": "mangasushi_org_en",
     "name": "Mangasushi",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangasushi.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4642,7 +4642,7 @@
   {
     "id": "reader_mangatellers_gr_en",
     "name": "Mangatellers",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reader.mangatellers.gr",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4658,7 +4658,7 @@
   {
     "id": "mangatoday_fun_en",
     "name": "MangaToday",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatoday.fun",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4674,7 +4674,7 @@
   {
     "id": "mangatone_com_en",
     "name": "MangaTone",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatone.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4690,7 +4690,7 @@
   {
     "id": "mangascans_to_en",
     "name": "MangaScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangascans.to",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4706,7 +4706,7 @@
   {
     "id": "mangatown_com_en",
     "name": "Mangatown",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.mangatown.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4722,7 +4722,7 @@
   {
     "id": "mangatx_cc_en",
     "name": "MangaTX",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatx.cc",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4738,7 +4738,7 @@
   {
     "id": "mangaempress_com_en",
     "name": "Manga Empress",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaempress.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4754,7 +4754,7 @@
   {
     "id": "mangatyrant_com_en",
     "name": "MangaTyrant",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatyrant.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4770,7 +4770,7 @@
   {
     "id": "mangaxyz_com_en",
     "name": "MangaXYZ",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangaxyz.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4786,7 +4786,7 @@
   {
     "id": "manhuaaz_com_en",
     "name": "Manhua AZ",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaaz.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4802,7 +4802,7 @@
   {
     "id": "manhuaes_com_en",
     "name": "Manhua ES",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaes.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4818,7 +4818,7 @@
   {
     "id": "manhuafast_com_en",
     "name": "ManhuaFast",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuafast.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4834,7 +4834,7 @@
   {
     "id": "manhuafast_net_en",
     "name": "ManhuaFast.net (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuafast.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4850,7 +4850,7 @@
   {
     "id": "manhua-ga_org_en",
     "name": "Manhuaga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhua-ga.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4866,7 +4866,7 @@
   {
     "id": "manhuahot_com_en",
     "name": "ManhuaHot",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuahot.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4882,7 +4882,7 @@
   {
     "id": "manhuamanhwa_com_en",
     "name": "ManhuaManhwa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuamanhwa.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4898,7 +4898,7 @@
   {
     "id": "manhuanext_com_en",
     "name": "Manhuanext",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuanext.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4914,7 +4914,7 @@
   {
     "id": "manhuanow_com_en",
     "name": "ManhuaNow",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuanow.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4930,7 +4930,7 @@
   {
     "id": "manhuaplus_com_en",
     "name": "Manhua Plus",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaplus.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4946,7 +4946,7 @@
   {
     "id": "manhuaplus_org_en",
     "name": "ManhuaPlus (Unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaplus.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4962,7 +4962,7 @@
   {
     "id": "manhuarm_com_en",
     "name": "Manhuarm",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuarm.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -4994,7 +4994,7 @@
   {
     "id": "manhuasite_com_en",
     "name": "ManhuaSite",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuasite.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5010,7 +5010,7 @@
   {
     "id": "manhuatop_org_en",
     "name": "ManhuaTop",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuatop.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5026,7 +5026,7 @@
   {
     "id": "manhuaus_com_en",
     "name": "ManhuaUS",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhuaus.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5042,7 +5042,7 @@
   {
     "id": "manhuazonghe_com_en",
     "name": "Manhua Zonghe",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.manhuazonghe.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5058,7 +5058,7 @@
   {
     "id": "manhwa18_com_en",
     "name": "Manhwa18",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwa18.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5074,7 +5074,7 @@
   {
     "id": "manhwa18_org_en",
     "name": "Manhwa18.org",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwa18.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5090,7 +5090,7 @@
   {
     "id": "manhwa68_com_en",
     "name": "Manhwa68",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwa68.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5106,7 +5106,7 @@
   {
     "id": "manhwabuddy_com_en",
     "name": "ManhwaBuddy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwabuddy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5122,7 +5122,7 @@
   {
     "id": "manhwaclan_com_en",
     "name": "ManhwaClan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwaclan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5138,7 +5138,7 @@
   {
     "id": "manhwaden_com_en",
     "name": "ManhwaDen",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.manhwaden.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5154,7 +5154,7 @@
   {
     "id": "manhwafreake_com_en",
     "name": "Manhwa Freake",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwafreake.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5170,7 +5170,7 @@
   {
     "id": "manhwafull_com_en",
     "name": "Manhwafull",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwafull.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5186,7 +5186,7 @@
   {
     "id": "manhwahentai_to_en",
     "name": "Manhwa Hentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwahentai.to",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5202,7 +5202,7 @@
   {
     "id": "manhwahentai_me_en",
     "name": "Manhwahentai.me",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwahentai.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5218,7 +5218,7 @@
   {
     "id": "manhwahub_net_en",
     "name": "ManhwaHub",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwahub.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5234,7 +5234,7 @@
   {
     "id": "manhwalike_com_en",
     "name": "Manhwalike",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwalike.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5250,7 +5250,7 @@
   {
     "id": "manhwamanhua_com_en",
     "name": "ManhwaManhua",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwamanhua.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5266,7 +5266,7 @@
   {
     "id": "manhwas_men_en",
     "name": "Manhwas Men",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwas.men",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5282,7 +5282,7 @@
   {
     "id": "manhwatoon_com_en",
     "name": "Manhwa Toon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.manhwatoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5298,7 +5298,7 @@
   {
     "id": "manhwatop_com_en",
     "name": "Manhwatop",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwatop.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5314,7 +5314,7 @@
   {
     "id": "manhwax_org_en",
     "name": "Manhwax",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwax.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5330,7 +5330,7 @@
   {
     "id": "hentaitnt_net_en",
     "name": "Manhwa XXL",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentaitnt.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5346,7 +5346,7 @@
   {
     "id": "manhwaz_com_en",
     "name": "ManhwaZ",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manhwaz.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5362,7 +5362,7 @@
   {
     "id": "manta_net_en",
     "name": "Manta",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manta.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5378,7 +5378,7 @@
   {
     "id": "manycomic_com_en",
     "name": "ManyComic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manycomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5394,7 +5394,7 @@
   {
     "id": "manytoon_com_en",
     "name": "ManyToon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manytoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5410,7 +5410,7 @@
   {
     "id": "manytoon_me_en",
     "name": "ManyToon.me",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manytoon.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5426,7 +5426,7 @@
   {
     "id": "megatokyo_com_en",
     "name": "Megatokyo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://megatokyo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5442,7 +5442,7 @@
   {
     "id": "mgjinx_com_en",
     "name": "MGJinx",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mgjinx.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5458,7 +5458,7 @@
   {
     "id": "milftoon_xxx_en",
     "name": "Milftoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://milftoon.xxx",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5474,7 +5474,7 @@
   {
     "id": "monochromecms_netlify_app_en",
     "name": "Monochrome Custom",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://monochromecms.netlify.app",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5490,7 +5490,7 @@
   {
     "id": "manga_d34d_one_en",
     "name": "Monochrome Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://manga.d34d.one",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5506,7 +5506,7 @@
   {
     "id": "msytoon_com_en",
     "name": "MSYToon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://msytoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5522,7 +5522,7 @@
   {
     "id": "multporn_net_en",
     "name": "Multporn",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://multporn.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5538,7 +5538,7 @@
   {
     "id": "inkreads_com_en",
     "name": "MurimScan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://inkreads.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5554,7 +5554,7 @@
   {
     "id": "myhentaicomics_com_en",
     "name": "MyHentaiComics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://myhentaicomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5570,7 +5570,7 @@
   {
     "id": "myhentaigallery_com_en",
     "name": "MyHentaiGallery",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://myhentaigallery.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5586,7 +5586,7 @@
   {
     "id": "myshojo_com_en",
     "name": "MyShojo",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://myshojo.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5602,7 +5602,7 @@
   {
     "id": "necroscans_com_en",
     "name": "Necro Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://necroscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5618,7 +5618,7 @@
   {
     "id": "nightsup_net_en",
     "name": "NIGHT SCANS",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nightsup.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5634,7 +5634,7 @@
   {
     "id": "nineanime_com_en",
     "name": "NineAnime",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.nineanime.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5650,7 +5650,7 @@
   {
     "id": "9hentai_so_en",
     "name": "NineHentai",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://9hentai.so",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5666,7 +5666,7 @@
   {
     "id": "nitroscans_net_en",
     "name": "Nitro Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nitroscans.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5682,7 +5682,7 @@
   {
     "id": "novelcrow_com_en",
     "name": "NovelCrow",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://novelcrow.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5698,7 +5698,7 @@
   {
     "id": "novelmic_com_en",
     "name": "NovelMic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://novelmic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5714,7 +5714,7 @@
   {
     "id": "nuxscans_blogspot_com_en",
     "name": "Nux Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nuxscans.blogspot.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5730,7 +5730,7 @@
   {
     "id": "1manhwa_com_en",
     "name": "1Manhwa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://1manhwa.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5746,7 +5746,7 @@
   {
     "id": "nyxscans_com_en",
     "name": "Nyx Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://nyxscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5762,7 +5762,7 @@
   {
     "id": "oglaf_com_en",
     "name": "Oglaf",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.oglaf.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5778,7 +5778,7 @@
   {
     "id": "ohjoysextoy_com_en",
     "name": "Oh Joy Sex Toy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.ohjoysextoy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5794,7 +5794,7 @@
   {
     "id": "omegascans_org_en",
     "name": "Omega Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://omegascans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5810,7 +5810,7 @@
   {
     "id": "1manga_co_en",
     "name": "1Manga.co",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://1manga.co",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5826,7 +5826,7 @@
   {
     "id": "onemanga_info_en",
     "name": "OneManga.info",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://onemanga.info",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5842,7 +5842,7 @@
   {
     "id": "giantitp_com_en",
     "name": "The Order Of The Stick (OOTS)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.giantitp.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5858,7 +5858,7 @@
   {
     "id": "read_oppai_stream_en",
     "name": "Oppai Stream",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://read.oppai.stream",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5874,7 +5874,7 @@
   {
     "id": "paragonscans_com_en",
     "name": "Paragon Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://paragonscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5890,7 +5890,7 @@
   {
     "id": "paritehaber_com_en",
     "name": "Paritehaber",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.paritehaber.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5906,7 +5906,7 @@
   {
     "id": "patchfriday_com_en",
     "name": "Patch Friday",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://patchfriday.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5922,7 +5922,7 @@
   {
     "id": "pawmanga_com_en",
     "name": "Paw Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://pawmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5938,7 +5938,7 @@
   {
     "id": "petrotechsociety_org_en",
     "name": "Petrotechsociety",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.petrotechsociety.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5954,7 +5954,7 @@
   {
     "id": "philiascans_org_en",
     "name": "Philia Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://philiascans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5970,7 +5970,7 @@
   {
     "id": "platinumscans_com_en",
     "name": "Platinum Crown",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://platinumscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -5986,7 +5986,7 @@
   {
     "id": "rackusreads_com_en",
     "name": "Rackus",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://rackusreads.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6002,7 +6002,7 @@
   {
     "id": "pomanga_com_en",
     "name": "PoManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://pomanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6018,7 +6018,7 @@
   {
     "id": "porncomix_online_en",
     "name": "PornComix",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": " https://porncomix.online",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6034,7 +6034,7 @@
   {
     "id": "quantumscans_org_en",
     "name": "Quantum Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://quantumscans.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6050,7 +6050,7 @@
   {
     "id": "questionablecontent_net_en",
     "name": "Questionable Content",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.questionablecontent.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6066,7 +6066,7 @@
   {
     "id": "rainofsnow_com_en",
     "name": "Rain Of Snow",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://rainofsnow.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6082,7 +6082,7 @@
   {
     "id": "randowis_com_en",
     "name": "Randowiz",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://randowis.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6098,7 +6098,7 @@
   {
     "id": "ravenscans_com_en",
     "name": "Raven Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ravenscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6114,7 +6114,7 @@
   {
     "id": "readallcomics_com_en",
     "name": "ReadAllComics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readallcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6130,7 +6130,7 @@
   {
     "id": "ww9_readsnk_com_en",
     "name": "Read Attack on Titan Shingeki no Kyojin Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww9.readsnk.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6146,7 +6146,7 @@
   {
     "id": "readberserk_com_en",
     "name": "Read Berserk Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readberserk.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6162,7 +6162,7 @@
   {
     "id": "ww7_readblackclover_com_en",
     "name": "Read Black Clover Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww7.readblackclover.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6194,7 +6194,7 @@
   {
     "id": "ww4_readchainsawman_com_en",
     "name": "Read Chainsaw Man Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww4.readchainsawman.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6210,7 +6210,7 @@
   {
     "id": "readcomiconline_li_en",
     "name": "ReadComicOnline",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readcomiconline.li",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6226,7 +6226,7 @@
   {
     "id": "readcomicsonline_ru_en",
     "name": "Read Comics Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readcomicsonline.ru",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6242,7 +6242,7 @@
   {
     "id": "ww6_dbsmanga_com_en",
     "name": "Read Dragon Ball Super Chou Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww6.dbsmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6258,7 +6258,7 @@
   {
     "id": "ww3_readdrstone_com_en",
     "name": "Read Dr. Stone Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww3.readdrstone.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6274,7 +6274,7 @@
   {
     "id": "ww4_readfairytail_com_en",
     "name": "Read Fairy Tail & Edens Zero Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww4.readfairytail.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6290,7 +6290,7 @@
   {
     "id": "readfreecomics_com_en",
     "name": "ReadFreeComics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readfreecomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6306,7 +6306,7 @@
   {
     "id": "ww6_readhaikyuu_com_en",
     "name": "Read Haikyuu!! Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww6.readhaikyuu.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6322,7 +6322,7 @@
   {
     "id": "ww2_readhxh_com_en",
     "name": "Read Hunter x Hunter Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww2.readhxh.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6338,7 +6338,7 @@
   {
     "id": "ww1_readjujutsukaisen_com_en",
     "name": "Read Jujutsu Kaisen Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww1.readjujutsukaisen.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6354,7 +6354,7 @@
   {
     "id": "ww1_readkaguyasama_com_en",
     "name": "Read Kaguya-sama Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww1.readkaguyasama.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6370,7 +6370,7 @@
   {
     "id": "ww2_readkingdom_com_en",
     "name": "Read Kingdom Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww2.readkingdom.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6402,7 +6402,7 @@
   {
     "id": "ww3_read7deadlysins_com_en",
     "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww3.read7deadlysins.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6418,7 +6418,7 @@
   {
     "id": "ww7_readnaruto_com_en",
     "name": "Read Naruto Boruto Samurai 8 Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww7.readnaruto.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6434,7 +6434,7 @@
   {
     "id": "ww8_readonepiece_com_en",
     "name": "Read One Piece Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww8.readonepiece.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6450,7 +6450,7 @@
   {
     "id": "ww3_readopm_com_en",
     "name": "Read One-Punch Man Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww3.readopm.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6466,7 +6466,7 @@
   {
     "id": "readsololeveling_org_en",
     "name": "Read Solo Leveling Manga Manhwa Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://readsololeveling.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6482,7 +6482,7 @@
   {
     "id": "ww3_readneverland_com_en",
     "name": "Read The Promised Neverland Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww3.readneverland.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6498,7 +6498,7 @@
   {
     "id": "ww10_tokyoghoulre_com_en",
     "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww10.tokyoghoulre.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6514,7 +6514,7 @@
   {
     "id": "ww1_readvinlandsaga_com_en",
     "name": "Read Vinland Saga Manga Online",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ww1.readvinlandsaga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6530,7 +6530,7 @@
   {
     "id": "reallifecomics_com_en",
     "name": "Real Life Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reallifecomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6546,7 +6546,7 @@
   {
     "id": "reaperscans_com_en",
     "name": "Reaper Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reaperscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6562,7 +6562,7 @@
   {
     "id": "reset-scans_co_en",
     "name": "Reset Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://reset-scans.co",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6578,7 +6578,7 @@
   {
     "id": "retsu_org_en",
     "name": "Retsu",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://retsu.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6594,7 +6594,7 @@
   {
     "id": "rezoscans_com_en",
     "name": "Rezo Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://rezoscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6610,7 +6610,7 @@
   {
     "id": "ritharscans_com_en",
     "name": "RitharScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://ritharscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6626,7 +6626,7 @@
   {
     "id": "rizzfables_com_en",
     "name": "Rizz Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://rizzfables.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6642,7 +6642,7 @@
   {
     "id": "roliascan_com_en",
     "name": "Rolia Scan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://roliascan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6658,7 +6658,7 @@
   {
     "id": "rosesquadscans_aishiteru_org_en",
     "name": "Rose Squad Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://rosesquadscans.aishiteru.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6674,7 +6674,7 @@
   {
     "id": "s2manga_com_en",
     "name": "S2Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://s2manga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6690,7 +6690,7 @@
   {
     "id": "schlockmercenary_com_en",
     "name": "Schlock Mercenary",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.schlockmercenary.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6706,7 +6706,7 @@
   {
     "id": "scyllacomics_xyz_en",
     "name": "Scylla Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://scyllacomics.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6722,7 +6722,7 @@
   {
     "id": "sectscans_com_en",
     "name": "SectScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sectscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6738,7 +6738,7 @@
   {
     "id": "setsuscans_com_en",
     "name": "Setsu Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://setsuscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6754,7 +6754,7 @@
   {
     "id": "shibamanga_com_en",
     "name": "Shiba Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://shibamanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6770,7 +6770,7 @@
   {
     "id": "violetscans_com_en",
     "name": "Violet Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://violetscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6786,7 +6786,7 @@
   {
     "id": "shootingstarscans_com_en",
     "name": "Shooting Star Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://shootingstarscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6802,7 +6802,7 @@
   {
     "id": "sitemanga_com_en",
     "name": "Site Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sitemanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6818,7 +6818,7 @@
   {
     "id": "skymanga_work_en",
     "name": "Sky Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://skymanga.work",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6834,7 +6834,7 @@
   {
     "id": "sleepytranslations_com_en",
     "name": "Sleepy Translations",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sleepytranslations.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6850,7 +6850,7 @@
   {
     "id": "sas-api_fly_dev_en",
     "name": "Solar and Sundry",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://sas-api.fly.dev",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6866,7 +6866,7 @@
   {
     "id": "spidyscans_xyz_en",
     "name": "Spider Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://spidyscans.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6882,7 +6882,7 @@
   {
     "id": "spmanhwa_online_en",
     "name": "Spmanhwa",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://spmanhwa.online",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6898,7 +6898,7 @@
   {
     "id": "hentalk_pw_en",
     "name": "SpyFakku",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://hentalk.pw",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6914,7 +6914,7 @@
   {
     "id": "stonescape_xyz_en",
     "name": "StoneScape",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://stonescape.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6930,7 +6930,7 @@
   {
     "id": "summanga_com_en",
     "name": "Summanga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://summanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6946,7 +6946,7 @@
   {
     "id": "wings_sbs_en",
     "name": "Sunshine Butterfly Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://wings.sbs",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6962,7 +6962,7 @@
   {
     "id": "supermegacomics_com_en",
     "name": "SUPER MEGA",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.supermegacomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6978,7 +6978,7 @@
   {
     "id": "genzupdates_com_en",
     "name": "Genz Toons",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://genzupdates.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -6994,7 +6994,7 @@
   {
     "id": "swordscomic_com_en",
     "name": "Swords Comic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://swordscomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7010,7 +7010,7 @@
   {
     "id": "taadd_com_en",
     "name": "Taadd",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.taadd.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7026,7 +7026,7 @@
   {
     "id": "tapas_io_en",
     "name": "Tapas",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://tapas.io",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7042,7 +7042,7 @@
   {
     "id": "tappytoon_net_en",
     "name": "TappyToon.Net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://tappytoon.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7058,7 +7058,7 @@
   {
     "id": "tcbonepiecechapters_com_en",
     "name": "TCB Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://tcbonepiecechapters.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7074,7 +7074,7 @@
   {
     "id": "templetoons_com_en",
     "name": "Temple Scan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://templetoons.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7090,7 +7090,7 @@
   {
     "id": "theblank_net_en",
     "name": "The Blank Scanlation",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://theblank.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7106,7 +7106,7 @@
   {
     "id": "theduckwebcomics_com_en",
     "name": "The Duck Webcomics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.theduckwebcomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7122,7 +7122,7 @@
   {
     "id": "jolleycomics_com_en",
     "name": "The Property of Hate",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://jolleycomics.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7138,7 +7138,7 @@
   {
     "id": "todaymanga_com_en",
     "name": "TodayManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://todaymanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7154,7 +7154,7 @@
   {
     "id": "todaymic_com_en",
     "name": "Todaymic",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://todaymic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7170,7 +7170,7 @@
   {
     "id": "toonchill_com_en",
     "name": "ToonChill",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://toonchill.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7186,7 +7186,7 @@
   {
     "id": "toongod_org_en",
     "name": "ToonGod",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.toongod.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7234,7 +7234,7 @@
   {
     "id": "toonitube_com_en",
     "name": "TooniTube",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://toonitube.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7250,7 +7250,7 @@
   {
     "id": "toonizy_com_en",
     "name": "Toonizy",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://toonizy.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7266,7 +7266,7 @@
   {
     "id": "mangatop_org_en",
     "name": "Top Manhua",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangatop.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7282,7 +7282,7 @@
   {
     "id": "topmanhua_net_en",
     "name": "TopManhua.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://topmanhua.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7314,7 +7314,7 @@
   {
     "id": "tritinia_org_en",
     "name": "TritiniaScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://tritinia.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7330,7 +7330,7 @@
   {
     "id": "tsumino_com_en",
     "name": "Tsumino",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.tsumino.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7346,7 +7346,7 @@
   {
     "id": "utoon_net_en",
     "name": "Utoon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://utoon.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7362,7 +7362,7 @@
   {
     "id": "valirscans_com_en",
     "name": "Valir Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://valirscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7378,7 +7378,7 @@
   {
     "id": "vgperson_com_en",
     "name": "vgperson",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vgperson.com/other/mangaviewer.php",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7394,7 +7394,7 @@
   {
     "id": "viz_com_en",
     "name": "VIZ Shonen Jump",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.viz.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7410,7 +7410,7 @@
   {
     "id": "viz_com_en",
     "name": "VIZ Manga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.viz.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7426,7 +7426,7 @@
   {
     "id": "vortexscansfree_com_en",
     "name": "Vortex Scans Free (unoriginal)",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vortexscansfree.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7442,7 +7442,7 @@
   {
     "id": "voyce_me_en",
     "name": "VoyceMe",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.voyce.me",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7458,7 +7458,7 @@
   {
     "id": "vymanga_net_en",
     "name": "VyvyManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vymanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7474,7 +7474,7 @@
   {
     "id": "vyvymanga_org_en",
     "name": "VyvyManga.org",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://vyvymanga.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7490,7 +7490,7 @@
   {
     "id": "xrabohrok_github_io_en",
     "name": "War For Rayuba",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://xrabohrok.github.io/WarMap/#/",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7506,7 +7506,7 @@
   {
     "id": "webcomicsapp_com_en",
     "name": "Webcomics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://webcomicsapp.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7522,7 +7522,7 @@
   {
     "id": "webdexscans_com_en",
     "name": "Webdex Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://webdexscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7538,7 +7538,7 @@
   {
     "id": "webnovel_com_en",
     "name": "WebNovel",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.webnovel.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7554,7 +7554,7 @@
   {
     "id": "webtoonscan_com_en",
     "name": "WebtoonScan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://webtoonscan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7570,7 +7570,7 @@
   {
     "id": "webtoon_xyz_en",
     "name": "WebtoonXYZ",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://www.webtoon.xyz",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7586,7 +7586,7 @@
   {
     "id": "weebcentral_com_en",
     "name": "Weeb Central",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://weebcentral.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7602,7 +7602,7 @@
   {
     "id": "whalemanga_com_en",
     "name": "WhaleManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://whalemanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7618,7 +7618,7 @@
   {
     "id": "woopread_com_en",
     "name": "WoopRead",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://woopread.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7634,7 +7634,7 @@
   {
     "id": "wuxiaworld_site_en",
     "name": "WuxiaWorld",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://wuxiaworld.site",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7650,7 +7650,7 @@
   {
     "id": "xcalibrscans_com_en",
     "name": "xCaliBR Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://xcalibrscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7666,7 +7666,7 @@
   {
     "id": "xoxocomic_com_en",
     "name": "XOXO Comics",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://xoxocomic.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7682,7 +7682,7 @@
   {
     "id": "yakshascans_com_en",
     "name": "YakshaScans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://yakshascans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7698,7 +7698,7 @@
   {
     "id": "yaoihub_com_en",
     "name": "Yaoihub",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://yaoihub.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7714,7 +7714,7 @@
   {
     "id": "yaoiscan_com_en",
     "name": "YaoiScan",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://yaoiscan.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7730,7 +7730,7 @@
   {
     "id": "yaoitoon_com_en",
     "name": "YaoiToon",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://yaoitoon.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7746,7 +7746,7 @@
   {
     "id": "zandynofansub_aishiteru_org_en",
     "name": "Zandy no Fansub",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zandynofansub.aishiteru.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7762,7 +7762,7 @@
   {
     "id": "zscans_com_en",
     "name": "Zero Scans",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zscans.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7778,7 +7778,7 @@
   {
     "id": "zinchangmanga_net_en",
     "name": "ZinChanManga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zinchangmanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7794,7 +7794,7 @@
   {
     "id": "zinchangmanga_com_en",
     "name": "ZinChanManga.com",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zinchangmanga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7810,7 +7810,7 @@
   {
     "id": "mangazin_org_en",
     "name": "Zinmanga",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://mangazin.org",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7826,7 +7826,7 @@
   {
     "id": "zin-manga_com_en",
     "name": "Zin-Manga.com",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zin-manga.com",
     "searchPath": "/search?word=",
     "isActive": false,
@@ -7842,7 +7842,7 @@
   {
     "id": "zinmanga_net_en",
     "name": "Zinmanga.net",
-    "type": "htmlScraper",
+    "type": "api",
     "baseURL": "https://zinmanga.net",
     "searchPath": "/search?word=",
     "isActive": false,
