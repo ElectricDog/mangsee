@@ -4,7 +4,7 @@
   "name": "MangaBats",
   "type": "htmlScraper",
   "baseURL": "https://www.mangabats.com",
-  "searchPath": "/search?keyword=",
+  "searchPath": "/search/story/",
   "language": "en",
   "isActive": true,
   "searchResultSelector": ".panel-search-story .story_item",
@@ -14,5 +14,6 @@
   "chapterSelector": ".chapter-list a",
   "readerImageSelector": ".container-chapter-reader img"
 }
+
 
 ]
