@@ -1,19 +1,4 @@
 [
-  {
-    "id": "mangadex",
-    "name": "MangaDex",
-    "type": "htmlScraper",
-    "baseURL": "https://mangadex.org",
-    "searchPath": "/titles?q=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".border-background.rounded",
-    "searchTitleSelector": "a.text-sm.font-bold",
-    "searchLinkSelector": "a.text-sm.font-bold",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".flex-col a.text-sm.text-right",
-    "readerImageSelector": "img[data-src]"
-  },
 {
   "id": "toonily",
   "name": "Toonily",
@@ -28,65 +13,5 @@
   "searchThumbnailSelector": "img",
   "chapterSelector": ".eph-num a",
   "readerImageSelector": ".reading-content img"
-},
-  {
-    "id": "asura",
-    "name": "Asura Scans",
-    "type": "htmlScraper",
-    "baseURL": "https://asuracomic.net",
-    "searchPath": "/?s=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".listupd .bs",
-    "searchTitleSelector": ".tt",
-    "searchLinkSelector": "a",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".eph-num a",
-    "readerImageSelector": ".reading-content img"
-  },
-  {
-    "id": "mangabat",
-    "name": "MangaBat",
-    "type": "htmlScraper",
-    "baseURL": "https://www.mangabats.com",
-    "searchPath": "/search?keyword=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".panel-search-story .story_item",
-    "searchTitleSelector": ".story_name a",
-    "searchLinkSelector": ".story_name a",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".chapter-list a",
-    "readerImageSelector": ".container-chapter-reader img"
-  },
-  {
-    "id": "omegascans",
-    "name": "Omega Scans",
-    "type": "htmlScraper",
-    "baseURL": "https://omegascans.org",
-    "searchPath": "/?s=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".listupd .bs",
-    "searchTitleSelector": ".tt",
-    "searchLinkSelector": "a",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".eph-num a",
-    "readerImageSelector": ".reading-content img"
-  },
-  {
-    "id": "batoto",
-    "name": "Bato.to",
-    "type": "htmlScraper",
-    "baseURL": "https://bato.to",
-    "searchPath": "/search?title=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".search-result .item",
-    "searchTitleSelector": ".title a",
-    "searchLinkSelector": ".title a",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".chapter a",
-    "readerImageSelector": ".reader-area img"
-  }
+}
 ]
