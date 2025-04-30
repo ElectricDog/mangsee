@@ -1,18 +1,18 @@
 [
 {
-  "id": "mangabats",
-  "name": "MangaBats",
+  "id": "mangadex",
+  "name": "MangaDex",
   "type": "htmlScraper",
-  "baseURL": "https://www.mangabats.com",
-  "searchPath": "/search/story/",
+  "baseURL": "https://mangadex.org",
+  "searchPath": "/titles?q=",
   "language": "en",
   "isActive": true,
-  "searchResultSelector": ".panel-search-story .story_item",
-  "searchTitleSelector": ".story_name a",
-  "searchLinkSelector": ".story_name a",
+  "searchResultSelector": ".border-background.rounded",
+  "searchTitleSelector": "a.text-sm.font-bold",
+  "searchLinkSelector": "a.text-sm.font-bold",
   "searchThumbnailSelector": "img",
-  "chapterSelector": ".chapter-list a",
-  "readerImageSelector": ".container-chapter-reader img"
+  "chapterSelector": ".flex-col a.text-sm.text-right",
+  "readerImageSelector": "img[data-src]"
 }
 
 
