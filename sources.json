@@ -1,6 +1,6 @@
 [
   {
-    "id": "3C8EF741-76CB-4F6F-9D8D-66F72A3EF6B1",
+    "id": "mangasee",
     "name": "MangaSee",
     "type": "htmlScraper",
     "baseURL": "https://mangasee123.com",
@@ -8,7 +8,7 @@
     "isActive": false
   },
   {
-    "id": "A01A76A5-2D3E-4871-B4C5-1DDA72B8899C",
+    "id": "toonily",
     "name": "Toonily",
     "type": "htmlScraper",
     "baseURL": "https://toonily.net",
@@ -16,7 +16,7 @@
     "isActive": false
   },
   {
-    "id": "B0CC86D6-6C33-48D9-B8A4-24A6E36DE899",
+    "id": "mangadex",
     "name": "MangaDex",
     "type": "api",
     "baseURL": "https://api.mangadex.org",
