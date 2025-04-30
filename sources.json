@@ -1,17 +1,18 @@
 [
-  {
-    "id": "mangabat",
-    "name": "MangaBat",
-    "type": "htmlScraper",
-    "baseURL": "https://www.mangabats.com",
-    "searchPath": "/search?keyword=",
-    "language": "en",
-    "isActive": true,
-    "searchResultSelector": ".panel-search-story .story_item",
-    "searchTitleSelector": ".story_name a",
-    "searchLinkSelector": ".story_name a",
-    "searchThumbnailSelector": "img",
-    "chapterSelector": ".chapter-list a",
-    "readerImageSelector": ".container-chapter-reader img"
-  }
+ {
+  "id": "mangabat",
+  "name": "MangaBat",
+  "type": "htmlScraper",
+  "baseURL": "https://m.mangabat.com",
+  "searchPath": "/search/manga/",
+  "language": "en",
+  "isActive": true,
+  "searchResultSelector": ".story_item",
+  "searchTitleSelector": ".story_name a",
+  "searchLinkSelector": ".story_name a",
+  "searchThumbnailSelector": "img",
+  "chapterSelector": ".chapter-list a",
+  "readerImageSelector": ".container-chapter-reader img"
+}
+
 ]
