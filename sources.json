@@ -1,21 +1,4 @@
 [
-  {
-    "id": "mangasee",
-    "name": "MangaSee",
-    "type": "htmlScraper",
-    "baseURL": "https://mangasee123.com",
-    "searchPath": "/search/?name=",
-    "isActive": false
-  },
-  {
-    "id": "toonily",
-    "name": "Toonily",
-    "type": "htmlScraper",
-    "baseURL": "https://toonily.net",
-    "searchPath": "/search/?keyword=",
-    "isActive": false
-  },
-  {
     "id": "mangadex",
     "name": "MangaDex",
     "type": "api",
