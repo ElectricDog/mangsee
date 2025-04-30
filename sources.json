@@ -14,7 +14,7 @@
     "chapterSelector": ".flex-col a.text-sm.text-right",
     "readerImageSelector": "img[data-src]"
   },
-  {
+{
   "id": "toonily",
   "name": "Toonily",
   "type": "htmlScraper",
