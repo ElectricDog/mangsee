@@ -1,13 +1,13 @@
 [
- {
-  "id": "mangabat",
-  "name": "MangaBat",
+{
+  "id": "mangabats",
+  "name": "MangaBats",
   "type": "htmlScraper",
-  "baseURL": "https://m.mangabat.com",
-  "searchPath": "/search/manga/",
+  "baseURL": "https://www.mangabats.com",
+  "searchPath": "/search?keyword=",
   "language": "en",
   "isActive": true,
-  "searchResultSelector": ".story_item",
+  "searchResultSelector": ".panel-search-story .story_item",
   "searchTitleSelector": ".story_name a",
   "searchLinkSelector": ".story_name a",
   "searchThumbnailSelector": "img",
