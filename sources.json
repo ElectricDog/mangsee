@@ -7,12 +7,10 @@
   "searchPath": "/titles?q=",
   "language": "en",
   "isActive": true,
-  "searchResultSelector": ".border-background.rounded",
+  "searchResultSelector": ".manga-entry",
   "searchTitleSelector": "a.text-sm.font-bold",
   "searchLinkSelector": "a.text-sm.font-bold",
-  "searchThumbnailSelector": "img",
-  "chapterSelector": ".flex-col a.text-sm.text-right",
-  "readerImageSelector": "img[data-src]"
+  "searchThumbnailSelector": "img"
 }
 
 
