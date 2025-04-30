@@ -1,0 +1,18 @@
+[
+  {
+    "id": "UUID-PLACEHOLDER-1",
+    "name": "MangaSee",
+    "type": "htmlScraper",
+    "baseURL": "https://mangasee123.com",
+    "searchPath": "/search/?name=",
+    "isActive": true
+  },
+  {
+    "id": "UUID-PLACEHOLDER-2",
+    "name": "Toonily",
+    "type": "htmlScraper",
+    "baseURL": "https://toonily.net",
+    "searchPath": "/search/?keyword=",
+    "isActive": true
+  }
+]
