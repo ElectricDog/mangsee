@@ -4,46 +4,89 @@
     "name": "Asura Comic",
     "type": "html",
     "baseURL": "https://asuracomic.net",
+    "searchPath": "/?s=",
+    "searchResultSelector": ".page-item-detail",
+    "searchTitleSelector": ".post-title a",
+    "searchLinkSelector": ".post-title a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".wp-manga-chapter a",
+    "readerImageSelector": ".reading-content img",
     "language": "en",
-    "searchPath": "/?s={query}"
+    "nsfw": true,
+    "isActive": true
   },
   {
     "id": "toonily",
     "name": "Toonily",
     "type": "html",
     "baseURL": "https://toonily.com",
+    "searchPath": "/?s=",
+    "searchResultSelector": ".page-item-detail",
+    "searchTitleSelector": ".post-title a",
+    "searchLinkSelector": ".post-title a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".wp-manga-chapter a",
+    "readerImageSelector": ".reading-content img",
     "language": "en",
-    "searchPath": "/?s={query}&post_type=wp-manga"
+    "nsfw": true,
+    "isActive": true
   },
   {
     "id": "mangadex",
     "name": "MangaDex",
     "type": "api",
     "baseURL": "https://api.mangadex.org",
-    "language": "en"
+    "searchPath": "/manga",
+    "language": "en",
+    "nsfw": false,
+    "isActive": true
   },
   {
     "id": "mangabats",
     "name": "MangaBat",
     "type": "html",
     "baseURL": "https://www.mangabats.com",
+    "searchPath": "/search?keyword=",
+    "searchResultSelector": ".page-item-detail",
+    "searchTitleSelector": ".post-title a",
+    "searchLinkSelector": ".post-title a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".wp-manga-chapter a",
+    "readerImageSelector": ".reading-content img",
     "language": "en",
-    "searchPath": "/search?keyword={query}"
+    "nsfw": false,
+    "isActive": true
   },
   {
     "id": "omegascans",
     "name": "Omega Scans",
     "type": "html",
     "baseURL": "https://omegascans.org",
+    "searchPath": "/?s=",
+    "searchResultSelector": ".page-item-detail",
+    "searchTitleSelector": ".post-title a",
+    "searchLinkSelector": ".post-title a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".wp-manga-chapter a",
+    "readerImageSelector": ".reading-content img",
     "language": "en",
-    "searchPath": "/?s={query}"
+    "nsfw": true,
+    "isActive": true
   },
   {
     "id": "batoto",
     "name": "Bato.to",
     "type": "html",
     "baseURL": "https://bato.to",
+    "searchPath": "/search?word=",
+    "searchResultSelector": ".item",
+    "searchTitleSelector": "h3 a",
+    "searchLinkSelector": "h3 a",
+    "searchThumbnailSelector": "img",
+    "chapterSelector": ".chapters-list a",
+    "readerImageSelector": ".reader-area img",
     "language": "en",
-    "searchPath": "/search?word={query}"
+    "nsfw": true,
+    "isActive": true
   }
 ]
